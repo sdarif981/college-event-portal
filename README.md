@@ -3,8 +3,8 @@
 This project demonstrates a secure, automated deployment pipeline for a Node.js application. It integrates cloud hosting on Azure with a complete "Secure SDLC" (Software Development Life Cycle) using GitHub Actions.
 
 ## 🚀 Live Links
-- **Production URL:** [https://college-portal-final-123.azurewebsites.net/](https://college-portal-final-123.azurewebsites.net/)
-- **Health Dashboard:** [https://college-portal-final-123.azurewebsites.net/health](https://college-portal-final-123.azurewebsites.net/health)
+- **Production URL:** [https://college-portal-final-123.azurewebsites.net/](https://college-portal-final-123-h0hkfkdbhncyffcz.centralindia-01.azurewebsites.ne)
+- **Health Dashboard:** [https://college-portal-final-123.azurewebsites.net/health](https://college-portal-final-123-h0hkfkdbhncyffcz.centralindia-01.azurewebsites.ne/health)
 
 ---
 
