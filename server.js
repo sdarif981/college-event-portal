@@ -47,7 +47,7 @@ app.get('/health', (req, res) => {
         <div class="card">
             <div class="status-container">
                 <span class="pulse"></span>
-                <span class="status-text">Operational</span>
+                <span class="status-text">Operational(OK)</span>
             </div>
             <h1>System Health</h1>
             <div class="meta-info">
